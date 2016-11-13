@@ -1,0 +1,2 @@
+libcoregrind_amd64_linux_a-dispatch-ppc64-aix5.o: \
+ m_dispatch/dispatch-ppc64-aix5.S

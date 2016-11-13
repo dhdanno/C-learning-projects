@@ -1,0 +1,2 @@
+libcoregrind_amd64_linux_a-syscall-ppc32-aix5.o: \
+ m_syswrap/syscall-ppc32-aix5.S
